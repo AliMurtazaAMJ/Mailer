@@ -21,8 +21,8 @@
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/yourusername/gmail-mailer-pro.git
-cd gmail-mailer-pro
+https://github.com/AliMurtazaAMJ/Mailer.git
+cd Mailer
 pip install -r requirements.txt
 ```
 
@@ -49,7 +49,7 @@ python main.py
 ## 🏗️ Architecture
 
 ```
-gmail-mailer-pro/
+Mailer/
 ├── 🐍 main.py              # Application entry point
 ├── 📧 email_client.py      # Gmail IMAP/SMTP operations  
 ├── 🎨 ui.py                # HTML/CSS/JS interface
@@ -94,9 +94,6 @@ gmail-mailer-pro/
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -107,5 +104,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <strong>Made with ❤️ for Gmail power users</strong>
+  <strong>Made with ❤️ by - (AMJ) for Gmail power users</strong>
 </div>
